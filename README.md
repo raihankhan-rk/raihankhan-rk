@@ -2,7 +2,7 @@
 ---
 
 # 💫 About Me:
-👨🏽‍💻 I’m a sophomore undergrad from India, pursuing CSE at the Institute of Engineering and Management<br><br>🌱 I’m currently exploring the world of Web3 & Blockchain.<br><br>📕 I'm currently learning Django, NodeJS.<br><br>👯 I’m looking to collaborate with other developers on awesome new and innovative projects.<br><br>🤔 My interest lies in backend development, along with creating innovative AIs and DL models.<br><br>⚡ Fun fact: Music is my thing; Blogger; Visual Artist; Binge Watcher; Anti-Non-Creative; Ideas-Hub.<br><br>💬 Ask me about anything, I'd love to know something new!<br><br>📫 Email me at raihan.khan2021@iem.edu.in
+👨🏽‍💻 I’m a sophomore undergrad from India, pursuing CSE at the Institute of Engineering and Management<br><br>🌱 I’m currently exploring the world of Web3 & Blockchain.<br><br>📕 I'm currently learning Django, React.<br><br>👯 I’m looking to collaborate with other developers on awesome new and innovative projects.<br><br>🤔 My interest lies in backend development, along with creating innovative AIs and DL models.<br><br>⚡ Fun fact: Music is my thing; Blogger; Visual Artist; Binge Watcher; Anti-Non-Creative; Ideas-Hub.<br><br>💬 Ask me about anything, I'd love to know something new!<br><br>📫 Email me at raihan.khan2021@iem.edu.in
 
 
 ## 🌐 Socials:
