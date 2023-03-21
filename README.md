@@ -7,6 +7,7 @@
 My Top Projects :-
 - [AntiGPT](https://antigpt.raihankhan.dev)
 - [MedBase](https://medbase.raihankhan.dev)
+- [Ed360](https://ed360-teacher-frontend.vercel.app)
 - [TourX](https://tourX.raihankhan.dev)
 - [AstuteAI](https://astuteai.raihankhan.dev)
 
