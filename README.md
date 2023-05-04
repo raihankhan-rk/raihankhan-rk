@@ -2,11 +2,11 @@
 ----------------
 
 # 💫 About Me:
-👨🏽‍💻 I’m a sophomore undergrad from India, pursuing CSE at the Institute of Engineering and Management.<br><br>🌱 I’m currently exploring the world of Web3 & Blockchain.<br><br>📕 I'm currently learning Django, Flask.<br><br>👯 I’m looking to collaborate with other developers on awesome new and innovative projects.<br><br>🤔 My interest lies in backend development, along with creating innovative AIs and DL models.<br><br>⚡ Fun fact: Music is my thing; Blogger; Visual Artist; Binge Watcher; Anti-Non-Creative; Ideas-Hub.<br><br>💬 Ask me about anything, I'd love to know something new!<br><br>📫 Drop me an email at hello@raihankhan.dev
+👨🏽‍💻 I’m a sophomore undergrad from India, pursuing CSE at the Institute of Engineering and Management.<br><br>🌱 I’m currently exploring the world of Web3 & Blockchain.<br><br>📕 I'm currently learning Langchain, AGI.<br><br>👯 I’m looking to collaborate with other developers on awesome new and innovative projects.<br><br>🤔 My interest lies in backend development, along with creating innovative AIs and DL models.<br><br>⚡ Fun fact: Music is my thing; Blogger; Visual Artist; Binge Watcher; Anti-Non-Creative; Ideas-Hub.<br><br>💬 Ask me about anything, I'd love to know something new!<br><br>📫 Drop me an email at hello@raihankhan.dev
 
 My Top Projects :-
-- [AntiGPT](https://antigpt.raihankhan.dev)
 - [QuranGPT](https://qurangpt.live)
+- [AntiGPT](https://antigpt.raihankhan.dev)
 - [MedBase](https://medbase.raihankhan.dev)
 - [Ed360](https://ed360-teacher-frontend.vercel.app)
 - [TourX](https://tourX.raihankhan.dev)
